@@ -1,4 +1,4 @@
-pub fn main() {
+pub fn name() {
   let name = "Gilberto";
   println!("Hello, {}!", name);
 }
